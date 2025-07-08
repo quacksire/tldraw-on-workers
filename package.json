@@ -27,7 +27,7 @@
     "tldraw": "3.13.1"
   },
   "devDependencies": {
-    "@cloudflare/vite-plugin": "^1.2.4",
+    "@cloudflare/vite-plugin": "^1.6.0",
     "@cloudflare/workers-types": "^4.20250525.0",
     "@eslint/compat": "^1.2.9",
     "@eslint/eslintrc": "^3.3.1",
